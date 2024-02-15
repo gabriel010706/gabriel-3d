@@ -1,6 +1,4 @@
-h1{
-    text-align: center;
-    color: darkorchid;
+.corpo{
     background-color: rgb(127, 136, 255);
 }
 .titulo{
@@ -9,7 +7,4 @@ h1{
 .texto imc{
     font-size: 70px ;
     text-align: center;
-}
-.corpo{
-    background-color: rgb(39, 169, 181);
 }
