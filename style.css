@@ -1,3 +1,4 @@
 p {
-    background.linerar.gradint: aqua,purple,beige;
+    background-color: aqua,purple,beige;
+    text-align: center;
 }
