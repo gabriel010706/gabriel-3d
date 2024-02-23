@@ -1,5 +1,11 @@
-p1 {
-    background-color: aquamarine
-
+corpo{
+    background-color: rgb(127, 136, 255);
+}
+.titulo{
+    font-size: 50px;color:white;background:rgb(83, 191, 218) ;text-align: center;
+}
+.texto imc{
+    font-size: 70px ;
     text-align: center;
 }
+
