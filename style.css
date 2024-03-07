@@ -1,6 +1,9 @@
 h1{
-    background-color: chartreuse;
+    background-color: rgb(29, 175, 163);
 }
 body{
-    background-color: hotpink;
+    background-color: rgb(16, 133, 148);
+}
+p{
+text-align: center;
 }
