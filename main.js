@@ -8,10 +8,10 @@ for(let i=0; i <botoes.length; i++){
             texto[j].classList.remove("ativo");
 
         }
-}
+
 botoes[i].classList.add("ativo");
 textos[1].classlist.add("ativo")
-
+    }
 
 }
  const tempoObjetivo1 = new Date("2024-12-21Too:00:00");
