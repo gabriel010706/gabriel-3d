@@ -1,10 +1,10 @@
 :root {
     --cor-de-fundo: #24a3d4;
-    --verde: #4fe734;
-    --branco: #22aec0;
-    --botao-ativo: #3b2ec9;
+    --verde: #6431da;
+    --branco: #f8f8f8;
+    --botao-ativo: #b31451;
     --botao-inativo: #4337d180;
-    --texto-fundo: #4539cc4d;
+    --texto-fundo: #0068a54d;
 }
 
 body {
