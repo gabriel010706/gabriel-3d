@@ -16,3 +16,6 @@ textos[1].classlist.add("ativo");
 }
  const tempoObjetivo1 = new Date("2024-12-21T00:00:00");
  contadores[0].textContent = tempoObjetivo1;
+
+
+  
